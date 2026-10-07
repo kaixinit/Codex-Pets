@@ -6,7 +6,7 @@ A tiny flame. A curious cat. A little company while you work.
 
 | Lihuo · 离火心焰 | Yuzu · 橘猫 |
 | :---: | :---: |
-| <img src="previews/lihuo.gif" width="320" alt="Animated preview of Lihuo, a gentle flame spirit"> | <img src="previews/yuzu.gif" width="320" alt="Animated preview of Yuzu, a little orange cat"> |
+| <img src="previews/lihuo.gif" width="280" alt="Animated preview of Lihuo, a gentle flame spirit"> | <img src="previews/yuzu.gif" width="280" alt="Animated preview of Yuzu, a little orange cat"> |
 | **[Adopt Lihuo · 领取宠物](https://chatgpt.com/s/sharepet_6ac5c1a600888191a18d3ebc02d27aab)** | **[Adopt Yuzu · 领取宠物](https://chatgpt.com/s/sharepet_6ac5c1ac6c648191a76e72d201387c49)** |
 | A gentle flame spirit for calm, focused days. | A bright little orange cat for curious, playful coding days. |
 | 温柔的火焰精灵，陪你静心专注。 | 活泼好奇的小橘猫，陪你轻松探索与编程。 |
